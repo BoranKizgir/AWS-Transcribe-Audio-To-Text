@@ -1,7 +1,5 @@
 # AWS AI ile Sesli Notları Metne Dönüştürme Projesi
 
-Bu proje, Amazon Transcribe ve Amazon S3 servislerini kullanarak, ses dosyalarını tamamen sunucusuz (serverless) bir yapıda metne dönüştüren bir yapay zeka iş akışını göstermektedir.
-
 ## Proje Mimarisi
 Bu sistem, AWS'nin bulut yerli (cloud-native) servislerini kullanarak şu akışı takip eder:
 **Ses Yükleme (S3)** ➔ **Yapay Zeka İşleme (Amazon Transcribe)** ➔ **Metin Çıktısı (S3)**
