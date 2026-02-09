@@ -19,4 +19,5 @@ Bu sistem, AWS'nin bulut yerli (cloud-native) servislerini kullanarak şu akış
 ![](explanation_3.png)
 ![](explanation_4.png)
 ![](explanation_5.png)
+![](explanation_6.png)
 ![](AWS-RDS-High-Availability.drawio.png)
