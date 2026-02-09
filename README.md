@@ -14,3 +14,9 @@ Bu sistem, AWS'nin bulut yerli (cloud-native) servislerini kullanarak şu akış
 * **Çıktı Verisi:** [output.json](./output.json) (Zaman damgalı ve metne dökülmüş verileri içerir).
 
 ## 📸 Uygulama Kanıtı
+![](explanation_1.png)
+![](explanation_2.png)
+![](explanation_3.png)
+![](explanation_4.png)
+![](explanation_5.png)
+![](AWS-RDS-High-Availability.drawio.png)
